@@ -26,5 +26,3 @@ The dataset contains information about:
 • State
 • Customer name
 • Product category
-
-## Project Files
