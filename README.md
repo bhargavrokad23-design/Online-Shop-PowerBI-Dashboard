@@ -1,6 +1,6 @@
 # Online Shop Sales Dashboard (Power BI)
 
-![Dashboard](dashboard.png)
+![Dashboard](Online%20Shop.png)
 
 ## Project Overview
 This Power BI dashboard analyzes online shop sales performance,
